@@ -785,6 +785,18 @@
 		cursor: default;
 		text-align: center;
 	}
+		.channel-left {
+			margin-right: 15px;
+		}
+
+		.channel-right {
+			margin-left: 15px;
+		}
+
+		.button-tv {
+			margin-top:20px;
+		}
+
 
 		#footer .copyright {
 			margin: 0;
